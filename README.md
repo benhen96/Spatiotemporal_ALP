@@ -1,6 +1,4 @@
-# Spatiotemporal_ALP
-
-Spatio-temporal Time-Series Forecasting using an Iterative Kernel-Based Regression
+# Spatio-temporal Time-Series Forecasting using an Iterative Kernel-Based Regression
 
 Spatio-temporal time-series analysis is a growing area of research that includes different types of tasks, such as forecasting, prediction, clustering, and
 visualization. In many domains, like epidemiology or economics, time series data is collected in order to describe the observed phenomenon in particular
